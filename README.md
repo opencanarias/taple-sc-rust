@@ -23,4 +23,4 @@ This project includes the SDK to be included during the development of a smart c
 Refer to our [tutorials](https://www.taple.es/build) to learn more about how to develop and deploy smart contracts in TAPLE.
 
 ## License
-This project is licensed under the [AGPL license](https://github.com/opencanarias/taple-core/blob/master/LICENSE).
+This project is licensed under the [AGPL license](./LICENSE).
