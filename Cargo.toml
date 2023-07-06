@@ -1,5 +1,5 @@
 [package]
-name = "contract"
+name = "taple-sc-rust"
 version = "0.1.0"
 edition = "2021"
 
