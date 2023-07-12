@@ -1,7 +1,6 @@
-## The main branch is the development version of `TAPLE`. This branch is not guaranteed to be stable. Released versions are in the "release*" branches
+## This is TAPLE's main branch of work and is not guaranteed to be stable. Released versions are in the "release*" branches
 
 # TAPLE Rust Smart Contract SDK
-
 TAPLE (pronounced T+🍎 ['tapəl]) stands for Tracking (Autonomous) of Provenance and Lifecycle Events. TAPLE is a permissioned DLT solution for traceability of assets and processes. It is:
 
 - **Scalable**: Scaling to a sufficient level for traceability use cases. 
@@ -9,7 +8,7 @@ TAPLE (pronounced T+🍎 ['tapəl]) stands for Tracking (Autonomous) of Provenan
 - **Flexible**: Have a flexible and adaptable cryptographic scheme mechanism for a multitude of scenarios.
 - **Energy-efficient**: Rust powered, TAPLE is sustainable and efficient from the point of view of energy consumption.
 
-This project includes the SDK to be included during the development of a smart contract for TAPLE.
+This project includes the SDK to be included during the development of smart contracts for TAPLE.
 
 [![AGPL licensed][agpl-badge]][agpl-url]
 
