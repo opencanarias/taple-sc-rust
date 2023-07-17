@@ -8,5 +8,6 @@ extern "C" { // Host functions
   // Escribe un byte en la posición indicada
   pub(crate) fn write_byte(ptr: u32, offset: u32, data: u8);
   // Println
+  #[allow(dead_code)]
   pub(crate) fn cout(ptr: u32);
 }
