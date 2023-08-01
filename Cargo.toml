@@ -1,16 +1,21 @@
 [package]
 name = "taple-sc-rust"
-version = "0.1.0"
+version = "0.3.0-dev"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Open Canarias S.L.<taple@opencanarias.com>"]
+description = "TAPLE smart contracts SDK"
+readme = "../README.md"
+homepage = "https://www.taple.es"
+repository = "https://github.com/opencanarias/taple-sc-rust"
+license = "AGPL-3.0-only"
+keywords = ["blockchain", "distributed-ledger", "taple", "sustainability"]
 
 [dependencies]
 serde = { version = "1.0.152", features = ["derive"] }
 serde_json = "1.0.92"
-json-patch = "~0.2"
-thiserror = "~1.0"
-borsh = "~0.10.3"
+json-patch = "1"
+thiserror = "1"
+borsh = "0.10.3"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
