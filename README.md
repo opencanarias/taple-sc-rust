@@ -19,11 +19,11 @@ This project includes the SDK to be included during the development of smart con
 [agpl-badge]: https://img.shields.io/badge/license-AGPL-blue.svg
 [agpl-url]: https://github.com/opencanarias/taple-core/blob/master/LICENSE
 
-[Discover](https://www.taple.es) | [Learn](https://www.taple.es/learn) | [Build](https://www.taple.es/build) | 
+[Discover](https://www.taple.es/docs/discover) | [Learn](https://www.taple.es/docs/learn) | [Build](https://www.taple.es/docs/build) | 
 [Code](https://github.com/search?q=topic%3Ataple+org%3Aopencanarias++fork%3Afalse+archived%3Afalse++is%3Apublic&type=repositories)
 
 ## Usage
-Refer to our [tutorials](https://www.taple.es/build) to learn more about how to develop and deploy smart contracts in TAPLE.
+Refer to our [tutorials](https://www.taple.es/docs/build) to learn more about how to develop and deploy smart contracts in TAPLE.
 
 ## License
 This project is licensed under the [AGPL license](./LICENSE).
