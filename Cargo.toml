@@ -9,6 +9,7 @@ homepage = "https://www.taple.es"
 repository = "https://github.com/opencanarias/taple-sc-rust"
 license = "AGPL-3.0-only"
 keywords = ["blockchain", "distributed-ledger", "taple", "sustainability"]
+rust-version = "1.67"
 
 [dependencies]
 serde = { version = "1.0.152", features = ["derive"] }

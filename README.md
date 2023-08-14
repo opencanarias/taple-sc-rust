@@ -1,7 +1,5 @@
 <div align="center">
-<p><b>This is main branch of work and is not guaranteed to be stable. Released versions are in the "release*" branches</b></p>
-<br/>
-<p><img src="https://raw.githubusercontent.com/opencanarias/public-resources/master/images/taple-logo-readme.png"></p>
+<img src="https://raw.githubusercontent.com/opencanarias/public-resources/master/images/taple-logo-readme.png">
 </div>
 
 # TAPLE Rust Smart Contract SDK
@@ -23,6 +21,8 @@ This project includes the SDK to be included during the development of smart con
 [Code](https://github.com/search?q=topic%3Ataple+org%3Aopencanarias++fork%3Afalse+archived%3Afalse++is%3Apublic&type=repositories)
 
 ## Usage
+Minimium supported rust versión (MSRV) is 1.67.
+
 Refer to our [tutorials](https://www.taple.es/docs/build) to learn more about how to develop and deploy smart contracts in TAPLE.
 
 ## License
